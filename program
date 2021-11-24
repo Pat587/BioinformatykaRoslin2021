@@ -1,0 +1,3 @@
+path = ""
+data = read (path, "r:)
+data = readlines(data)
